@@ -1,3 +1,5 @@
 FROM debian
 MAINTAINER Bart Prokop <prokop.bart@gmail.com>
-CMD ["1", "2", "3", "4", "5"]
+ENV JAVA_HOME="/opt/jdk1.8.0_92" \
+    PATH=$JAVA_HOME/bin/folder:$PATH
+CMD [""]
