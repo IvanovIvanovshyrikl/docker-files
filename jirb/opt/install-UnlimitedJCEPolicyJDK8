@@ -3,7 +3,7 @@
 # find  | grep local_policy.jar
 # ./jdk1.8.0_92/jre/lib/security/local_policy.jar
 # ./UnlimitedJCEPolicyJDK8/local_policy.jar
-cp UnlimitedJCEPolicyJDK8/local_policy.jar jdk1.8.0_92/jre/lib/security
+cp UnlimitedJCEPolicyJDK8/local_policy.jar jdk1.8.0_92/jre/lib/security/
 
 # find  | grep US_export_policy.jar
 # ./jdk1.8.0_92/jre/lib/security/US_export_policy.jar
