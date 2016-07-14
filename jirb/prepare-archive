@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+tar czf opt.tar.gz ./opt/jdk1.8.0_92 ./opt/jruby-9.1.2.0
