@@ -1,2 +1,3 @@
 30608baff3bb3b09ea65fab603aae1c58f1381d7bb9d1b9af3dec9d499cabcc3  server-jre-8u92-linux-x64.tar.gz
 4be3a187360fd39cab6aba6ee274130effb1c0ace3e63d2c95af9a4eec186169  jruby-bin-9.1.2.0.zip
+f3020a3922efd6626c2fff45695d527f34a8020e938a49292561f18ad1320b59  jce_policy-8.zip
