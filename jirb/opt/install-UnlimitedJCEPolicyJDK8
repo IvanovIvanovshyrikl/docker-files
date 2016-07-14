@@ -1,4 +1,4 @@
-#!/usr/bin/env jruby
+#!/usr/bin/env bash
 
 # find  | grep local_policy.jar
 # ./jdk1.8.0_92/jre/lib/security/local_policy.jar
