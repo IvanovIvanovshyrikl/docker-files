@@ -2,3 +2,4 @@
 cb1f076b1e8bfc9dd8b6954b3af345f3  jruby-bin-9.1.2.0.zip
 b3c7031bc65c28c2340302065e7d00d3  jce_policy-8.zip
 5fb15172cdee5238a2423e4862836112  bcprov-ext-jdk15on-154.jar
+e2fa735e6758e7c6bda43ba7cbaffe9c  server-jre-8u101-linux-x64.tar.gz
