@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-cp ../bcprov-ext-jdk15on-154.jar jdk1.8.0_92/jre/lib/ext/
+cp ../bcprov-ext-jdk15on-154.jar jdk1.8.0_101/jre/lib/ext/
+sed -i '/security.provider.9=sun.security.smartcardio.SunPCSC/a security.provider.10=org.bouncycastle.jce.provider.BouncyCastleProvider' jdk1.8.0_101/jre/lib/security/java.security
+# diff jdk1.8.0_101/jre/lib/security/java.security jdk1.8.0_101/jre/lib/security/java.security-ORIGINAL
