@@ -72,9 +72,10 @@ create too much noise in the file. People will have to assume that the
 missing sections were intentionally left out because they contained no
 notable changes.
 
-## [1.0.2] - 2014-08-09
-### Added
-- "Why should I care?" section mentioning The Changelog podcast.
+## [1.1.0] - 2016-07-27
+### Changed
+- Oracle Server JRE updated from 8u92 to 8u101. Since this release all
+underlying JRE will be latest CPU updates. I will not release PDU JRE.
 
 ## [1.0.1] - 2016-07-16
 ### Fixed
@@ -95,6 +96,6 @@ notable changes.
 [1.0.6]: https://github.com/bartprokop/docker-files/compare/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/bartprokop/docker-files/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/bartprokop/docker-files/compare/v1.0.3...v1.0.4
-[1.0.3]: https://github.com/bartprokop/docker-files/compare/v1.0.2...v1.0.3
-[1.0.2]: https://github.com/bartprokop/docker-files/compare/v1.0.1...v1.0.2
+[1.2.0]: https://github.com/bartprokop/docker-files/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/bartprokop/docker-files/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/bartprokop/docker-files/compare/v1.0.0...v1.0.1
